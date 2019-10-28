@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Atul",
+    "age": "19",
+    "height": "168",
+    "gender": "male",
+    "hair_color": "black"
+  },
+  {
+    "name": "Alex",
+    "age": "24",
+    "height": "170",
+    "gender": "male",
+    "hair_color": "brown"
+  },
+  {
+    "name": "Joe",
+    "age": "22",
+    "height": "171",
+    "gender": "male",
+    "hair_color": "orange"
+  },
+  {
+    "name": "Alexa",
+    "age": "26",
+    "height": "175",
+    "gender": "female",
+    "hair_color": "black"
+  }
+]
